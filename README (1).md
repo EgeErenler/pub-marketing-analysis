@@ -54,4 +54,4 @@ The code shows the full analysis process.
 
 ## Author
 
-Eylul Demiray, MA Marketing Management, University of Greenwich
+Ege ERENLER, MSc Data Science in Business , Regent's University London
