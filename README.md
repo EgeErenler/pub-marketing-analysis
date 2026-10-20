@@ -54,4 +54,5 @@ The code shows the full analysis process.
 
 ## Author
 
-Ege ERENLER, MSc Data Science in Business , Regent's University London
+Built by **Ege Erenler**, MSc Data Science in Business, Regent's University London.
+Portfolio: [egeerenler.com](https://egeerenler.com) · GitHub: [@EgeErenler](https://github.com/EgeErenler)
